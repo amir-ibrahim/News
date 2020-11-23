@@ -1,0 +1,6 @@
+package com.amiribrahim01.news.models
+
+data class Source(
+    val id: String,
+    val name: String
+)
